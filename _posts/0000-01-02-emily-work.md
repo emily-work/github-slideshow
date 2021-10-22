@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-**bold** Happy Friday :)! **bold**
+**Happy Friday :)!**
 Use the left arrow to go back!
